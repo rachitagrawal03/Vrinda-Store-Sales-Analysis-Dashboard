@@ -1,11 +1,11 @@
-# Vrinda Store Annual Sales Data Dashboard
+# Vrinda Store Sales Analysis Dashboard
 
 ## Overview
 This project analyzes the annual sales data for Vrinda Store for the year 2022. The primary objective is to uncover actionable insights about customer behavior, sales trends, top-performing segments, and strategic growth opportunities. The dashboard and associated analysis help Vrinda Store make informed decisions to enhance business strategy for the upcoming year.
 
 ## Dashboard Snapshot
 
-![Vrinda Store Dashboard](dashboard.png)
+![Vrinda Store Dashboard](Dashboard%20Snapshot.png)
 
 *Interactive dashboard showcasing sales trends, customer demographics, geographical performance, and channel contributions for 2022*
 
